@@ -1,3 +1,3 @@
 # HLB2024
 
-Quelques de mes writeups pour le hackerlab 2024
+Quelques de mes writeups pour la phase qualif du hackerlab 2024
